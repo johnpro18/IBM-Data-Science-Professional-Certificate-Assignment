@@ -9,4 +9,4 @@
 ### Course 07 Data Analysis with Python
 ### Course 08 Data Visualization with Python
 ### Course 09 Machine Learning with Python
-### Course 10 Applied Data Science Capstone
+### Course 10 Applied Data Science Capstone Project
